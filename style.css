@@ -1,14 +1,11 @@
-.main {
-  background-color: rgb(192, 194, 196);
-}
-
 .header {
   font-style: italic;
   font-size: large;
 }
 
 a {
-  color: black;
+  color: greenyellow;
+  font-style: bold;
 }
 
 a:visited {
@@ -21,4 +18,9 @@ a:hover {
 
 p {
   font-style: italic;
+}
+
+Body {
+  margin-left: 5px;
+  background-color: rgb(192, 194, 196);
 }
